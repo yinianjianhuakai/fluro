@@ -8,6 +8,7 @@
  */
 library fluro;
 
+export 'package:dazza/dazza.dart';
 export 'src/common.dart';
 export 'src/router.dart';
 export 'src/tree.dart';
