@@ -7,7 +7,7 @@ homepage: https://github.com/theyakka/fluro
 
 environment:
   sdk: ">=2.5.0 <3.0.0"
-  flutter: ">=1.12.0"
+  flutter: ">=1.9.1"
 
 dependencies:
   flutter:
